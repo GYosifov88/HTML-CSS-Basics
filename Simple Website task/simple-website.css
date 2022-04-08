@@ -1,0 +1,46 @@
+article header h1 {
+    font-size: 28px;
+}
+article header span {
+    font-style: italic;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #CCCCCC;
+}
+p{
+    font-size: 24px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #CCCCCC;
+}
+nav {
+    background-color: #444;
+    text-align: center;
+}
+nav ul{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+ul li {
+    font-size: 24px;
+    line-height: 40px;
+    height: 40px;
+    padding: 20px;
+    display: inline-block;
+}
+ nav ul li a {
+    text-decoration: none;
+    color: #ffffff;
+}
+footer {
+    background-color: #444;
+    text-align: center;
+    color: #fff;
+    padding: 10px;
+}
