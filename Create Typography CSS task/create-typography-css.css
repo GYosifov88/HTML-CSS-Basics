@@ -1,0 +1,45 @@
+body{
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+h1, h2, h3, h4, h5, h6 {
+font-family: Georgia, serif;
+}
+
+blockquote{
+    margin-left: 32px;
+    border-left: 4px solid rgb(211, 206, 206);
+    font-style: italic;
+    font-weight: bold;
+    
+}
+blockquote p{
+    margin-left: 60px;
+}
+
+table{
+    border: #ccc;
+    border-collapse: collapse;
+    width: 100%;
+}
+th{
+    background-color: rgb(201, 196, 196);
+    width:200;
+    height: 32px;
+    padding-left: 6px;
+    padding-right: 200px;
+    text-align: left;
+}
+td{
+    width: 144px;
+    height: 32px;
+    border: 1px solid #ccc;
+    padding-left: 5px;
+}
+td.even{
+    background-color: rgb(231, 231, 231);
+}
+#koko{
+    text-align: right;
+}
